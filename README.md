@@ -14,7 +14,7 @@ After passing the "GeoJSON/PB2002_boundaries.json" data, added style to the line
 - Used data from "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson". 
 - Used functions such as "getColor()" and " getRadius()"
 - In "getColor()" function, only 3 colors have been used for 3 magnitudes such as magnitude less than 5, a magnitude greater than 5, and a magnitude greater than 6.
-Figure of her color :
+Figure of the getcolor() :
 - Changes in geoJSON 
 	- Turned each feature into a circleMarker on the map
 	- Styled each circle with styleInfo() function
