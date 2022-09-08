@@ -22,6 +22,8 @@ Figure of getcolor() :
 	- Styled each circle with styleInfo() function
 	- Created a popup for the circle to display the magnitude and location of the earthquake
 	Figure of geoJSON file:
+	<img width="993" alt="geoJSON_Major_earthquake" src="https://user-images.githubusercontent.com/106944351/189177581-1b73e980-4687-44dd-b75d-0ac9d8135135.png">
+
 - Map showing major earthquake layer and data is as follows:
 <img width="1675" alt="Major_Earthquake" src="https://user-images.githubusercontent.com/106944351/189177350-ce3dcf72-c20b-4c47-86da-d53289f23295.png">
 
